@@ -4,6 +4,14 @@ On long documents it can be very hard to find the right content. With this exten
 
 ![Screenshot](images/screenshot-1.jpg)
 
+## Installation
+
+The extension is curently in review in the Chrome webstore. Until it'S verified you have to install it via "Load unpacked":
+
+![Screenshot](images/screenshot-2.jpg)
+
+The extension needs access to all URLs, experience shows that the review will take longer with this setting.
+
 ## Limitations
 
 - The extension only detects the tags \<H1> to \<H6>. If headings are defined otherwise they will be ignored.
