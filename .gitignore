@@ -1,3 +1,4 @@
+.gitignore
 sonarqube.bat
 .scannerwork
 .vscode
