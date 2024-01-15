@@ -13,7 +13,7 @@
     "default_path": "JTHsidepanel.html"
   },
 
-  "permissions": ["sidePanel", "scripting", "tabs", "webNavigation"],
+  "permissions": ["sidePanel", "scripting", "activeTab", "webNavigation"],
 
   "action": {
     "default_title": "Jump To Heading",
