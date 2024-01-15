@@ -3,7 +3,7 @@
   "name": "Jump to heading",
   "description": "Jump to heading",
   "author": "Plushbyte",
-  "version": "0.2",
+  "version": "0.21",
 
   "background": {
     "service_worker": "background.js"
@@ -30,6 +30,5 @@
       "js": ["content.js"],
       "matches": ["*://*/**"]
     }
-  ],
-  "host_permissions": ["*://*/*"]
+  ]
 }
