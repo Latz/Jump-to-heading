@@ -6,9 +6,8 @@ On long documents it can be very hard to find the right content. With this exten
 
 ## Installation
 
-The extension is curently in review in the Chrome webstore. Until it'S verified you have to install it via "Load unpacked":
-
-![Screenshot](images/screenshot-2.jpg)
+~~The extension is curently in review in the Chrome webstore. Until it'S verified you have to install it via "Load unpacked".~~
+**Update:** THe extension is now available in the [web store](https://chromewebstore.google.com/detail/jump-to-heading/hiphkchcchlgbmlfojbibmgmmjnbclnh).
 
 The extension needs access to all URLs, experience shows that the review will take longer with this setting.
 
